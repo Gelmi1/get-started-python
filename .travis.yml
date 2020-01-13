@@ -20,7 +20,7 @@ deploy:
 - provider: cloudfoundry
   username: apikey
   password: $apikey
-  api: https://api.u-gb.bluemix.net
+  api: https://api.eu-gb.bluemix.net
   organization: gelmi
   space: here
   manifest: manifest.yml
