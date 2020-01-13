@@ -21,8 +21,8 @@ deploy:
   username: apikey
   password: $apikey
   api: https://api.eu-gb.bluemix.net
-  organization: gelmi
-  space: here
+  organization: shivranji11@gmail.com
+  space: dev
   manifest: manifest.yml
   on:
     branch: develop
